@@ -20,7 +20,7 @@
     "passport": "^0.3.2"
   },
   "devDependencies": {
-    "@sap/ux-specification": "^1.108.4",
+    "@sap/ux-specification": "^1.108.10",
     "sqlite3": "^5.0.4"
   },
   "scripts": {
